@@ -1,6 +1,4 @@
-# How to turn off any unwanted sounds from "Creative Stage Air".
-
-Problem: "Pairing mode! Waiting for device to connect!"
+# Creative Stage Air: turn off "Pairing mode! Waiting for device to connect!" 
 
 Outline:
 * Download Firmware Update
