@@ -1,4 +1,8 @@
-# Creative Stage Air: turn off "Pairing mode! Waiting for device to connect!" 
+# Creative Stage Air
+
+![](img/creative.png)
+
+# How to turn off "Pairing mode! Waiting for device to connect!" 
 
 Outline:
 * Download Firmware Update
