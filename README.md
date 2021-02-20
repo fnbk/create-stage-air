@@ -4,11 +4,13 @@
 
 # How to turn off "Pairing mode! Waiting for device to connect!" 
 
-Outline:
+**Outline:**
 * Download Firmware Update
 * find positions of .mp3 files
 * change gain in .mp3 files
 * Install Firmware Update
+
+source:  https://joelw.id.au/CreativeStageAir
 
 ## Prerequisites
 * binwalker
